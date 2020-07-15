@@ -1,0 +1,58 @@
+.table-title {
+    background-color: lightgray;
+}
+
+.title-text {
+    width: fit-content;
+    padding-left: 1%;
+    padding-right: 1%;
+    border-bottom: 2px solid #09A3A3;
+}
+
+.add-link {
+    margin-left: 1%;
+    margin-bottom: 0.1%;
+    font-style: normal;
+    color: grey;
+}
+
+.add-text {
+    border-bottom: 1px solid grey;
+}
+
+.add-link :hover {
+    color: black;
+}
+
+.datepicker table {
+    width: 100%;
+}
+
+#hint_id_password1 {
+    visibility: hidden;
+    display: none;
+}
+
+#hint_id_password2 {
+    visibility: hidden;
+    display: none;
+}
+
+.post-button {
+    background-color: #f1f1f1;
+    height: 32px;
+    width: 200px;
+    padding: 5px;
+}
+
+.post-button-img {
+    position: absolute;
+    height: 35px;
+    margin-top: 1px;
+}
+
+.post-text {
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 8px;
+}
